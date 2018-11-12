@@ -1,0 +1,2 @@
+# Whatsitallabout
+Starting out 
